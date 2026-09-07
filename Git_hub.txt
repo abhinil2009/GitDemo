@@ -1,0 +1,12 @@
+Git >> Version Control
+
+v1
+v2
+v3
+new v4
+
+It is distributed on cloud
+It is for collaboration
+Tracking changes
+Recovery can be done easily
+
