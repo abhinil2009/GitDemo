@@ -1,0 +1,62 @@
+/* General Body Styling */
+body{
+    background-color: coral;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px;
+}
+/* Heading Styling */
+.head{
+    color: darkblue;
+}
+#bglime{
+background-color: lime;
+}
+#bglime span{
+    color: red;
+}
+/* Paragraph Styling */
+p{
+    color: white;
+}
+#para{
+    color: green;
+}
+/* Selects the span inside the 3rd paragraph */
+span{
+    color: black;
+    font-size: 1.3em;
+}
+/* Bold text before lists */
+strong{
+    display: block;
+    color: black;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+/* Unordered List Styling */
+ul{
+    color: white;
+}
+/* 1st list item 'a' tag styling */
+ul li:nth-child(1) a{
+    background-color: yellow;
+    color: black;
+    text-decoration: none;
+}
+/* 2nd list item 'a' tag styling */
+ul li:nth-child(2) a{
+    background-color: blue;
+    color: red;
+    text-decoration: none;
+}
+/* Ordered List Styling */
+ol{
+    color: black;
+}
+/* Style specific li elements by their order */
+ol li:nth-child(2){
+    color: blue;
+}
+ol li:nth-child(3){
+    color: red;
+}
